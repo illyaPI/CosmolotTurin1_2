@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cosmolot</string>
+    <string name="no_internet">Internet is gone, please wait for it…</string>
+    <string name="loading_please_wait">Loading, please wait…</string>
+</resources>
